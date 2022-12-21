@@ -7,8 +7,8 @@ Files can be accessed here https://figshare.com/articles/dataset/UXOTi_NPA_11_cl
 If you find UXOTi_NPA dataset useful in your research, please cite:
 
 @article
-
-{BajicPotocnik2023,
+   
+    {BajicPotocnik2023,
 
     author = {Bajić, Milan and Poto{\v{c}}nik, Bo{\v{z}}idar},
     
@@ -22,7 +22,7 @@ If you find UXOTi_NPA dataset useful in your research, please cite:
     
     Note = {submitted}
     
-}
+    }
 
 ABSTRACT
 
