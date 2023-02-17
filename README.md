@@ -6,15 +6,18 @@ Files can be accessed here https://figshare.com/articles/dataset/UXOTi_NPA_11_cl
 
 If you find UXOTi_NPA dataset useful in your research, please cite:
 
-      @article
-      {BajicPotocnik2023,
-      author = {Bajić, Milan and Poto{\v{c}}nik, Bo{\v{z}}idar},
-      Title = {UAV THERMAL IMAGING FOR UNEXPLODED ORD-NANCE DETECTION BY USING DEEP LEARNING},
-      journal = {REMOTE SENSING},
-      publisher = {Multidisciplinary Digital Publishing Institute},
-      Year = {2023},
-      Note = {submitted}
-      }
+     @Article{rs15040967,
+AUTHOR = {Bajić, Milan and Potočnik, Božidar},
+TITLE = {UAV Thermal Imaging for Unexploded Ordnance Detection by Using Deep Learning},
+JOURNAL = {Remote Sensing},
+VOLUME = {15},
+YEAR = {2023},
+NUMBER = {4},
+ARTICLE-NUMBER = {967},
+URL = {https://www.mdpi.com/2072-4292/15/4/967},
+ISSN = {2072-4292},
+DOI = {10.3390/rs15040967}
+}
 
 ABSTRACT
 
