@@ -5,8 +5,7 @@ Evaluation dataset UXOTi_NPA–an abbreviation that stands for UneXploded Ordnan
 Files can be accessed here https://figshare.com/articles/dataset/UXOTi_NPA_11_class_dataset/21688661 and here https://figshare.com/articles/dataset/UXOTi_NPA_1_class_dataset/21688673
 
 If you find UXOTi_NPA dataset useful in your research, please cite:
-
-     @Article{rs15040967,
+@Article{rs15040967,
 AUTHOR = {Bajić, Milan and Potočnik, Božidar},
 TITLE = {UAV Thermal Imaging for Unexploded Ordnance Detection by Using Deep Learning},
 JOURNAL = {Remote Sensing},
@@ -15,9 +14,7 @@ YEAR = {2023},
 NUMBER = {4},
 ARTICLE-NUMBER = {967},
 URL = {https://www.mdpi.com/2072-4292/15/4/967},
-ISSN = {2072-4292},
-DOI = {10.3390/rs15040967}
-}
+ISSN = {2072-4292}
 
 ABSTRACT
 
